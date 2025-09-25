@@ -1,4 +1,4 @@
-👋 Hello there, I'm Zainab Khan!  
+👋 Hello there, I'm Insiya Raja!
 🚀 Aspiring Software Engineer  
 📍 San Marcos, TX  
 📫 Email: zaynabkhn@gmail.com  
