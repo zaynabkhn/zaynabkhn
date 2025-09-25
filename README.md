@@ -6,9 +6,6 @@
 🔗 LinkedIn: [linkedin.com/in/zainabkhn](https://linkedin.com/in/zaynabkhn)  
 💻 GitHub: [github.com/zainabkhn](https://github.com/zaynabkhn)  
 
-
-![Visitor Count](https://profile-counter.glitch.me/zaynabkhn/count.svg)
-
 ---
 
 🌟 **About Me**  
