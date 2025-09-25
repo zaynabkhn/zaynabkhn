@@ -3,8 +3,8 @@
 🚀 Aspiring Software Engineer  
 📍 San Marcos, TX  
 📫 Email: zaynabkhn@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/zainabkhn](https://linkedin.com/in/zaynabkhn)  
-💻 GitHub: [github.com/zainabkhn](https://github.com/zaynabkhn)  
+🔗 LinkedIn: [linkedin.com/in/zaynabkhn](https://linkedin.com/in/zaynabkhn)  
+💻 GitHub: [github.com/zaynabkhn](https://github.com/zaynabkhn)  
 
 ---
 
