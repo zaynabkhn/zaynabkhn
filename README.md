@@ -9,7 +9,6 @@
 ### 📍 About Me
 🎓 **B.S. Computer Science**, Minor in Business Administration — *Expected May 2026*  
 🏆 Dean’s List • Alpha Sigma Lambda Honor Society  
-🧩 Interested in backend systems, network programming, and user-centered design  
 📫 **Email:** [zaynabkhn@gmail.com](mailto:zaynabkhn@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/zaynabkhn](https://linkedin.com/in/zaynabkhn)
 
