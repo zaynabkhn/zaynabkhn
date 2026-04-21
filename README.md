@@ -2,7 +2,7 @@
 
 💻 Software Engineering Intern @ Northbridge
 🎓 Computer Science @ Texas State University (Grad May 2026)
-🌐 Interested in Backend Systems, Cloud, and Full-Stack Development
+🌐 Backend Systems, Cloud, and Full-Stack Development
 
 ---
 
@@ -18,58 +18,57 @@
 
 ### 🟣 Mental Health Self-Care Tracker
 
-Java · JavaFX · SQLite · MVC
+**Java · JavaFX · SQLite · MVC**
 
-* Built a full desktop application with login, dashboard, mood tracking, and habit management
-* Designed structured architecture using controllers, models, and DAO layer
+* Built a full desktop app with login, dashboard, mood tracking, and habit management
+* Designed modular architecture using controllers, models, and DAO layer
 * Implemented persistent storage with SQLite
 
 ---
 
-### 🟢 Northbridge Internship
+### 🟢 Northbridge (Software Engineering Intern)
 
-Python · AWS · PostgreSQL
+**Python · AWS · PostgreSQL · Lambda**
 
-* Built and optimized a job ingestion pipeline using Apify API
-* Processed 30–35 jobs per run across 60+ companies
-* Implemented filtering logic to improve data quality
-* Worked with AWS (EC2, RDS, Lambda) in a production setup
+* Built a job ingestion pipeline processing 30–35 jobs/run across 60+ companies
+* Improved data quality with multi-level filtering logic
+* Developed an AI-powered resume analyzer using Amazon Bedrock
+* Worked with AWS (EC2, RDS, Lambda) in a production environment
 
 ---
 
 ### 🔵 Smart Home Socket System
 
-Python · TCP/UDP
+**Python · TCP/UDP**
 
-* Simulated IoT system using sockets to demonstrate reliability and communication
-* Implemented real-time message handling across devices
+* Simulated IoT communication system using socket programming
+* Implemented real-time device interaction and reliability handling
 
 ---
+
+### ⚫ Chess GUI Engine
+
+**Java · OOP**
+
+* Built a GUI-based chess game with move validation and game logic
+* Collaborated using Git and UML-based design
+
 
 ## 🛠 Tech Stack
 
-**Languages:**
-Python · Java · C++ · JavaScript · TypeScript
+**Languages:** Python · Java · C++ · JavaScript · TypeScript  
 
-**Backend & Cloud:**
-Node.js · REST APIs · AWS Lambda · EC2 · RDS
+**Frontend:** React · Next.js · HTML · CSS · Tailwind  
 
-**Frontend:**
-React · Next.js · HTML · CSS
+**Backend:** Node.js · REST APIs  
 
-**Databases:**
-PostgreSQL · SQLite · Prisma ORM
+**Cloud & Infrastructure:** AWS (Lambda, EC2, RDS, ECR) · Docker  
 
-**Tools:**
-Git · GitHub · VS Code · Docker · Apify
+**Databases:** PostgreSQL · SQLite · Prisma ORM · MongoDB  
 
----
+**AI/ML:** Amazon Bedrock · Semantic Search · NLP Pipelines  
 
-## 📊 GitHub Stats
-
-![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaynabkhn\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaynabkhn\&layout=compact\&theme=tokyonight)
+**Tools:** Git · GitHub · VS Code · Apify  
 
 ---
 
@@ -80,4 +79,4 @@ Git · GitHub · VS Code · Docker · Apify
 
 ---
 
-✨ *Actively seeking Software Engineering internships & new grad opportunities*
+✨ Actively seeking Software Engineering internships & new grad roles
