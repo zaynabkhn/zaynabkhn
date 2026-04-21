@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Zainab Khan
 
-💻 Software Engineering Intern @ Northbridge
-🎓 Computer Science @ Texas State University (Grad May 2026)
-☁️ Backend Systems · Cloud · Full-Stack Development  
+- 💻 Software Engineering Intern @ Northbridge  
+- 🎓 Computer Science @ Texas State University (Grad May 2026)  
+- ☁️ Backend Systems · Cloud · Full-Stack Development  
 
 ---
 
