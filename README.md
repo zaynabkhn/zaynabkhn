@@ -2,15 +2,15 @@
 
 💻 Software Engineering Intern @ Northbridge
 🎓 Computer Science @ Texas State University (Grad May 2026)
-🌐 Backend Systems, Cloud, and Full-Stack Development
+☁️ Backend Systems · Cloud · Full-Stack Development  
 
 ---
 
 ## 🚀 About Me
 
-* CS student with hands-on experience building **real-world applications and systems**
-* Currently working on **data pipelines and backend features** in a production environment
-* Interested in solving problems through **scalable systems and clean architecture**
+* Software engineering intern building **production-ready systems and data pipelines**
+* Experience working with **cloud infrastructure (AWS) and backend services**
+* Interested in designing **scalable systems and clean, maintainable architectures**
 
 ---
 
@@ -22,7 +22,7 @@
 
 * Built a full desktop app with login, dashboard, mood tracking, and habit management
 * Designed modular architecture using controllers, models, and DAO layer
-* Implemented persistent storage with SQLite
+* Implemented persistent storage with SQLite for user data and mood history tracking
 
 ---
 
@@ -30,7 +30,7 @@
 
 **Python · AWS · PostgreSQL · Lambda**
 
-* Built a job ingestion pipeline processing 30–35 jobs/run across 60+ companies
+* Built a job ingestion pipeline processing 30–35 jobs/run across 60+ companies into a production database
 * Improved data quality with multi-level filtering logic
 * Developed an AI-powered resume analyzer using Amazon Bedrock
 * Worked with AWS (EC2, RDS, Lambda) in a production environment
@@ -42,7 +42,7 @@
 **Python · TCP/UDP**
 
 * Simulated IoT communication system using socket programming
-* Implemented real-time device interaction and reliability handling
+* Implemented real-time device interaction and reliability handling across TCP/UDP protocols
 
 ---
 
@@ -69,6 +69,8 @@
 **AI/ML:** Amazon Bedrock · Semantic Search · NLP Pipelines  
 
 **Tools:** Git · GitHub · VS Code · Apify  
+
+🧠 Focused on backend systems, cloud infrastructure, and production-level development
 
 ---
 
